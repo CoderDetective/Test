@@ -11,6 +11,7 @@ namespace TestProjesi.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            string ss = "";
             return View();
         }
     }
