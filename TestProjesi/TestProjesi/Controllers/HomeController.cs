@@ -12,6 +12,7 @@ namespace TestProjesi.Controllers
         public ActionResult Index()
         {
             string ss = "";
+            
             return View();
         }
     }
