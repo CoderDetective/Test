@@ -11,7 +11,7 @@ namespace TestProjesi.Controllers
         // GET: Homedsa
         public ActionResult Index()
         {
-            string ss = "işlem tamamlandı";
+            string ss = "işlem tamamlandı 2";
             
             return View();
         }
